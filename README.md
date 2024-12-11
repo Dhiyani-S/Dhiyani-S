@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Dhiyani-S
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Java Script
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me  git config --global user.email "dhiyanisrinivasan123@gmail.com"
 - 😄 Pronouns: Techy
-- ⚡ Fun fact: Telugu
+- ⚡ Fun fact: I know Telugu
 - ![LeetCode Stats](https://leetcard.jacoblin.cool/Dhiyani-S?theme=dark&font=Kite%20One&ext=contest)
 
 
