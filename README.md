@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dhiyani-S
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Java Script
-- 📫 How to reach me  git config $ git config --global user.email
+- 📫 How to reach me  
   dhiyanisrinivasan123@gmail.com
 - 😄 Pronouns: Techy
 - ⚡ Fun fact: I know Telugu
