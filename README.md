@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhiyani-S
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java Script
+- 🌱 I’m currently learning Java
 - 📫 How to reach me  
 - 😄 Pronouns: Techy
 - ⚡ Fun fact: I know Telugu
